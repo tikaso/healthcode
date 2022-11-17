@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">健康码</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="name">焦志祥</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="clickToUpdate"><u>点击获取最新数据</u></string>
+    <string name="spot">水墨林溪社区办公室一楼前坪采样</string>
+
+
+</resources>

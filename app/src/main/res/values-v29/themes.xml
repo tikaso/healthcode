@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.HealthCode" parent="Base.Theme.HealthCode">
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/wechatGrey</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/wechatGrey</item>
+        <!--状态栏颜色,需要设置状态栏颜色为false-->
+        <item name="android:statusBarColor">@color/wechatGrey</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="actionOverflowButtonStyle">@style/ToolBarStyle</item>
+    </style>
+</resources>
